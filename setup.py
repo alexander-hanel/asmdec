@@ -9,7 +9,7 @@ setup(name='asmdec',
       description='Python x86/x64 decoder helper class',
       author='Alexander Hanel',
       author_email='alexander.hanel@gmail.com',
-      url='https://bitbucket.org/Alexander_Hanel/asmdec',
+      url='https://github.com/alexander-hanel/asmdec',
       packages=find_packages(),
       license='Apache License 2.0',
      )
